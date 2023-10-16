@@ -10,8 +10,8 @@
 
 - 💬 Birth Date: 22 July 2002
 - 🌱 Third-year student in Bachelor of Computer Science **(Data Engineering)**, UTM.
-- 📫 How to reach me: www.linkedin.com/in/amirul-amran
-- 🤝 Email: nikamirulariff@graduate.utm.my
+- 🤝 How to reach me: www.linkedin.com/in/amirul-amran
+- 📫 Email: nikamirulariff@graduate.utm.my
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yruixiang&label=Profile%20views&color=0e75b6&style=flat" alt="yruixiang" /> </p>
 <br>
