@@ -1,6 +1,7 @@
 
-I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
-
+    <p>
+        Hi, I'm <strong>Nik Amirul Ariff bin Amran</strong>. I am currently a student at <em>Universiti Teknologi Malaysia</em>, where I'm pursuing a bachelor's degree in <em>Computer Science</em> with a focus on <em>Data Engineering</em>. I'm currently in my <em>3rd year</em> of study and am passionate about coding. Being a coding enthusiast, I enjoy exploring the world of technology and software development especially in this platform where I'm keen to share my expertise and to grasp the wide undiscovered knowledges.
+    </p>
 ## 📚 Courses
 - [Big Data Management](https://github.com/drshahizan/BDM)
 - [High Performance Data Processing](https://github.com/drshahizan/HPDP)
